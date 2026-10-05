@@ -32,4 +32,4 @@ jobs:
     
     steps:
     - name: Deploy to Hosting
-      run: echo "Add your deployment script here (e.g., AWS, Vercel, Firebase)"
+      run: echo "Add your deployment script here (e.g., AWS, Vercel, Firebase,GCP,Asure)"
